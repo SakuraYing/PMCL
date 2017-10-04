@@ -1,0 +1,17 @@
+{
+    "port": "8848",
+    "hostname": "localhost",
+    "defaultpage": "index.html",
+    "playername": "player",
+    "playerpass": "",
+    "javapath": "",
+    "maxram": "1024",
+    "autoserver": "",
+    "autoport": "",
+    "backgroundimage": "bg.jpg",
+    "lastestversion": "",
+    "lastestlogin": "",
+    "selectversion": "",
+    "selectlogintype": "",
+    "debug": "false"
+}

@@ -1,0 +1,17 @@
+{
+    "port": "${port}",
+    "hostname": "${hostname}",
+    "defaultpage": "${defaultpage}",
+    "playername": "${playername}",
+    "playerpass": "${playerpass}",
+    "javapath": "${javapath}",
+    "maxram": "${maxram}",
+    "autoserver": "${autoserver}",
+    "autoport": "${autoport}",
+    "backgroundimage": "${backgroundimage}",
+    "lastestversion": "${lastestversion}",
+    "lastestlogin": "${lastestlogin}",
+    "selectversion": "${selectversion}",
+    "selectlogintype": "${selectlogintype}",
+    "debug": "false"
+}
